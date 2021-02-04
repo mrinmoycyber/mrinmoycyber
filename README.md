@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
-<h3 align="center">It works on my machine -\_(^^)_/-</h3>
+<h3 align="center">Learner | Geek | Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoycyber&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoycyber" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mrinmoy.kar23@gmail.com**
 
-- ⚡ Fun fact **DAMN--- SHE LEFT ME AGAIN :-)**
+- ⚡ Fun fact **It works on my machine -\_(^^)_/-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
