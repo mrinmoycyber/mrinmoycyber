@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mrinmoy.kar23@gmail.com**
 
-- ⚡ Fun fact **It works on my machine -\_(^^)_/-**
+- ⚡ Fun fact **It works on my machine  -\_(^^)_/-**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
