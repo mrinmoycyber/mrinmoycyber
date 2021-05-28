@@ -1,10 +1,11 @@
 
 
-<img src="tenor.gif" alt="coding" width="500" height="600">
-
 
 <h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
 <h3 align="center">Learner</h3>
+
+<img align="center" alt="Coding" width="300" src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoycyber&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoycyber" /> </p>
 
