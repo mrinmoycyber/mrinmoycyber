@@ -1,6 +1,6 @@
 
 
-<img src="pic/tenor.gif" alt="coding" width="500" height="600">
+<img src="tenor.gif" alt="coding" width="500" height="600">
 
 
 <h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
