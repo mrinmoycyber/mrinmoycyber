@@ -1,3 +1,5 @@
+<img src="giphy.gif" alt="code" style="width:300px">
+
 <h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
 <h3 align="center">Learner</h3>
 
