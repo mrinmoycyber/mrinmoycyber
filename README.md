@@ -2,7 +2,17 @@
 
 <h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
 <h3 align="center">Learner</h3>
-<img src="pic/giphy.gif">
+<!DOCTYPE html>
+<html>
+<body>
+
+<video src="videos/giphy.mp4" width="320" height="240" autoplay muted>
+  
+  
+</video>
+
+</body>
+</html>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoycyber&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoycyber" /> </p>
 
