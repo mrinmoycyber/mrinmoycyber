@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
-<h3 align="center">Learner</h3>
+<h3 align="center">Software Engineer</h3>
 
 <img align="center" alt="Coding" width="300" src="https://media1.tenor.com/images/0660efe82fa3da42ed56eef013171835/tenor.gif?itemid=16596559">
 
