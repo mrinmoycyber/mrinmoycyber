@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
 <h3 align="center">Learner</h3>
 
-<img align="center" width="300" src="https://tenor.com/view/scuze-corgi-corgi-smile-gif-17372363576878719262">
+<div class="tenor-gif-embed" data-postid="17372363576878719262" data-share-method="host" data-aspect-ratio="0.570281" data-width="100%"><a href="https://tenor.com/view/scuze-corgi-corgi-smile-gif-17372363576878719262">Scuze Corgi GIF</a>from <a href="https://tenor.com/search/scuze-gifs">Scuze GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoycyber&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoycyber" /> </p>
