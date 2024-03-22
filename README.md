@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
 <h3 align="center">Learner</h3>
 
-<img align="center" alt="Coding" width="300" src="https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647">
+<img align="center" alt="Coding" width="300" src="https://tenor.com/view/scuze-corgi-corgi-smile-gif-17372363576878719262">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoycyber&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoycyber" /> </p>
