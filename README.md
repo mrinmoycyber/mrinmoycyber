@@ -1,8 +1,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Mrinmoy Kar😀</h1>
-<h3 align="center">Committing code like a squirrel hoarding nuts – except my nuts are bugs.</h3>
+<h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
+<h3 align="center">Committing code like a squirrel hoarding nuts – except my nuts are bugs😀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoycyber&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoycyber" /> </p>
 
