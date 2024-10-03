@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoycyber&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoycyber" /> </p>
 
 
-- 📫 How to reach me **mrinmoy.kar23@gmail.com**
+- 📫 How to reach me **karmrinmoy84@gmail.com**
 
 - ⚡ Fun fact **It works on my machine-\_(^^)_/-**
 
