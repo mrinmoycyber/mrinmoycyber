@@ -2,10 +2,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Mrinmoy Kar</h1>
-<h3 align="center">Committing code like a squirrel hoarding nuts – except my nuts are bugs😀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinmoycyber&label=Profile%20views&color=0e75b6&style=flat" alt="mrinmoycyber" /> </p>
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <p style="margin: 0; font-size: 1.2em;">
+        <strong>Committing code like a squirrel hoarding nuts – except my nuts are bugs😀</strong>
+    </p>
+    <img src="https://media.giphy.com/media/mPJ4VPpXPtYuA/giphy.gif" alt="Squirrel GIF" width="300"/>
+</div>
 
 - 📫 How to reach me **mrinmoy.kar23@gmail.com**
 
