@@ -7,14 +7,23 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <p style="margin: 0; font-size: 1.2em;">
-        <strong>Committing code like a squirrel hoarding nuts – except my nuts are bugs😀</strong>
+📊 Currently working in the Data Science domain with approximately 3 years of hands-on experience in Machine Learning 🤖, NLP 🗣️, and Deep Learning 🧠. I have successfully built and deployed innovative solutions using frameworks like Langchain 🔗, TensorFlow 🔢, and PyTorch 🔥, driving business growth 📈 and operational efficiency ⚙️.
+
+✨ My expertise spans NLP 📜, Generative AI 🤖✨, and Large Language Models (LLM) 📚, with a proven track record in optimizing data workflows 📂 and building predictive models 🔮. I have delivered impactful results in customer segmentation 🧑‍🤝‍🧑, revenue generation 💰, and process optimization 🔧.
+
+🌟 Throughout my career, I’ve collaborated with cross-functional teams 🤝 to identify business challenges and implement data-driven solutions 📊, leading to measurable improvements across various business verticals. As a passionate advocate for continuous learning 📘, I am always excited to explore new technologies 🚀 and methodologies in AI 🤖 to foster innovation 🌐 <br>
+
+ <strong> Key Skills:
+🐍 Python | 🛠️ SQL | 🤖 Machine Learning | <br>
+🗣️ Natural Language Processing | 📚 NLTK | 🤖 BERT | <br>
+🧠 Deep Learning | 👁️ Computer Vision | 🤖✨ Generative AI | <br>
+📚 Large Language Models | 🔢 TensorFlow | 🔥 PyTorch | <br>
+🔗 Langchain | 📈 Statistical Modeling | 📊 Data Visualization | <br>
+🧩 Problem-solving | 🤝 Cross-functional Collaboration | 🔧 Process Optimization | </strong>
     </p>
-    <img src="https://media.giphy.com/media/mPJ4VPpXPtYuA/giphy.gif" alt="Squirrel GIF" width="300"/>
 </div>
 
-- 📫 How to reach me **mrinmoy.kar23@gmail.com**
-
-- ⚡ Fun fact **It works on my machine-\_(^^)_/-**
+- 📫 Feel free to connect with me at **mrinmoy.kar23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
