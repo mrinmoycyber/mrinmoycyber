@@ -39,6 +39,6 @@
 [twitter]: https://twitter.com/mrinmoy_kar_69
 [Instagram]: https://www.instagram.com/mrinmoy_kar_/
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinmoycyber&show_icons=true&locale=en&layout=compact" alt="mrinmoycyber" /></p>
+
 
 
