@@ -7,7 +7,7 @@
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <p style="margin: 0; font-size: 1.2em;">
-🌟 Currently working in the Data Science domain with approximately 4 years of hands-on experience in Machine Learning, NLP , and Deep Learning . I have successfully built and deployed innovative solutions using frameworks like Langchain, TensorFlow, and PyTorch , driving business growth and operational efficiency.
+🌟 Currently working in the Data Science domain with 4 years of hands-on experience in Machine Learning, NLP , and Deep Learning . I have successfully built and deployed innovative solutions using frameworks like Langchain, TensorFlow, and PyTorch , driving business growth and operational efficiency.
 
 🌟 My expertise spans NLP, Generative AI , and Large Language Models (LLM), with a proven track record in optimizing data workflows and building predictive models. I have delivered impactful results in customer segmentation, revenue generation , and process optimization.
 
